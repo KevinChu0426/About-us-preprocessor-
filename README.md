@@ -1,5 +1,19 @@
 # About-us-preprocessor-
 
+## Compile pug into html
+
+```
+pug -w index.pug -o ./html -P
+```
+
+## Compile sass into css
+
+```
+sass --watch index.sass:css/index.css
+```
+
+## [Website link](https://about-us.zhu-you-zhong-c.repl.co/)
+
 ## Pug
 
 ```
